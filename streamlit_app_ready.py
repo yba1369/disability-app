@@ -48,8 +48,8 @@ st.markdown(f"""
 '>
     <div style='display: flex; justify-content: space-between; align-items: center;'>
         <div style='text-align: right;'>
-            <h2 style='margin: 0; font-size: 32px; color: #003366;'>משרד עורכי דין יוסי בן אבו</h2>
-            <p style='margin: 5px 0 0 0; font-size: 18px; color: #004466;'>מומחים בייצוג מול ועדות רפואיות</p>
+            <h2 style='margin: 0; font-size: 32px; color: #003366;'>משרד עורך דין יוסי בן אבו</h2>
+            <p style='margin: 5px 0 0 0; font-size: 18px; color: #004466;'>ביטוח לאומי ודיני עבודה</p>
         </div>
         <div style='max-width: 120px; max-height: 80px; overflow: hidden; display: flex; align-items: center; justify-content: center;'>
             
